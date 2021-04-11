@@ -13,3 +13,8 @@ Multiline comments in MySQL
 
 -- MySQL is a freely avaliable open source relational database management system that uses sql. (MySQL)
 
+What is DBMS? 
+ANS:- DBMS stands for database management system and dbms is a system software for creating and managing database.
+
+
+
